@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericYapilar", "GenericYapilar\GenericYapilar.csproj", "{94B0141B-84EC-453D-B734-4703AD31607F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulamalar", "Uygulamalar\Uygulamalar.csproj", "{454F04EE-1AAF-4FA0-A1B4-2ECE744E2394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B0141B-84EC-453D-B734-4703AD31607F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B0141B-84EC-453D-B734-4703AD31607F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B0141B-84EC-453D-B734-4703AD31607F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B0141B-84EC-453D-B734-4703AD31607F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454F04EE-1AAF-4FA0-A1B4-2ECE744E2394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454F04EE-1AAF-4FA0-A1B4-2ECE744E2394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454F04EE-1AAF-4FA0-A1B4-2ECE744E2394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454F04EE-1AAF-4FA0-A1B4-2ECE744E2394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2DCF41F-04AB-49EB-B6F4-07E22601D12A}
+	EndGlobalSection
+EndGlobal
